@@ -77,9 +77,8 @@ Prevents duplicate exits if tasks are already logged for the day.
 Your log.txt file will look like this after using the system:
 
 ```txt
-DATE         Entry Time     Tasks                         Exit Time
-DD-MM-YY     HH:MM:SS AM    [Task 1, Task 2]              HH:MM:SS PM
-
+DATE         Entry Time     Exit Time      Tasks
+DD-MM-YY     HH:MM:SS AM    HH:MM:SS PM    [Task 1, Task 2]
 ```
 
 ## 🛠 Functional Details
