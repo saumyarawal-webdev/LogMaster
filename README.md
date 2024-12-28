@@ -28,8 +28,8 @@ Before you begin, make sure you have the following installed:
 1. **Clone this repository**:
 
 ```bash
-git clone https://github.com/your-username/Task-Time-Logger.git
-cd Task-Time-Logger
+git clone https://github.com/saumyarawal-webdev/LogMaster.git
+cd Log Master
 ```
 
 ## Install dependencies:
